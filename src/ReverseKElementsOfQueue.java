@@ -7,7 +7,6 @@ And reverse the first k elements of a k sized queue.
 import java.util.*;
 public class ReverseKElementsOfQueue {
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner sc=new Scanner(System.in);
         String s=sc.next();
         Queue<Character> harsh=new LinkedList<Character>();
