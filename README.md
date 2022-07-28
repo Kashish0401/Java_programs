@@ -1,3 +1,3 @@
 # Java_programs
 
-This is a collection of my java codes I do in various tests and contents
+This is a collection of my java codes I did in various tests and contents
