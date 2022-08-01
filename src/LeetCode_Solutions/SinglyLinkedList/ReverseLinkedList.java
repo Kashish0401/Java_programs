@@ -1,3 +1,5 @@
+package LeetCode_Solutions.SinglyLinkedList;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

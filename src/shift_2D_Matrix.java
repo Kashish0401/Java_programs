@@ -3,7 +3,7 @@ import java.util.*;
 public class shift_2D_Matrix {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named LeetCode_Solutions.SinglyLinkedList.LeetCode_Solutions.SinglyLinkedList.LeetCode_Solutions.SinglyLinkedList.LeetCode_Solutions.SinglyLinkedList.LeetCode_Solutions.SinglyLinkedList.LeetCode_Solutions.SinglyLinkedList.LeetCode_Solutions.SinglyLinkedList.Solution. */
         Scanner sc=new Scanner (System.in);
         int col=sc.nextInt();
         int row=sc.nextInt();

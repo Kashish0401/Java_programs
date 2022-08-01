@@ -1,4 +1,4 @@
-package LeetCode_Solutions;
+package LeetCode_Solutions.SinglyLinkedList;
 
 public class MyLinkedList {
     class Node{
